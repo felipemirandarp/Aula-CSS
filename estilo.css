@@ -1,0 +1,14 @@
+h2{
+    color: blueviolet;
+    /* COMENTARIO */
+}
+h2 {
+    margin: 0px;
+}
+
+.time{
+   width: 80%;
+   border: solid black 1px;
+   padding: 30px;
+   margin: 50px;
+}
